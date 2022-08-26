@@ -6,8 +6,5 @@ In this project, we are going to scrap the names of all the characters and extra
 
 
 
-
-
-
 ![image](https://user-images.githubusercontent.com/91394267/184562951-10fe85ac-94a0-4103-870e-2902054dba5e.png)
 
